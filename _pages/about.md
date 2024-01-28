@@ -1,26 +1,30 @@
 ---
 layout: about
-title: about
+title: Kehan YU
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Nanjing University, Journalism and Communication School
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>No.163 Xianlin Avenue, Qixia District </p>
+    <p>Nanjing, Jiangsu Province, China</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Kehan YU, born in Fujian Province in the year 1999.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+In September 2018, I studied advertising as an undergraduate at HefeiUniversity of Technology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In June 2023, I worked as a trainee reporter in the Straits NewsDepartment of Fujian Daily.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In September 2023, I came to the School of Journalism and Communication of Nanjing University forpostgraduate study, majoring in international communication.
+
+In October 2023, I became a member of the Fact-Checking Team, primarily responsible for fact-checking andvisually presenting rumors and misinformation related to international affairs.
+
+In November 2023, I was interning at Xinhua Daily Press Group Think Tank, responsible for collecting, analyzing and organizing data associated with online public opinion.
