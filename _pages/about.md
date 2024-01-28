@@ -28,3 +28,5 @@ In September 2023, I came to the School of Journalism and Communication of Nanji
 In October 2023, I became a member of the Fact-Checking Team, primarily responsible for fact-checking andvisually presenting rumors and misinformation related to international affairs.
 
 In November 2023, I was interning at Xinhua Daily Press Group Think Tank, responsible for collecting, analyzing and organizing data associated with online public opinion.
+
+<img src="/assets/img/IMG_1.jpg" align = "middle" width ="800px">
