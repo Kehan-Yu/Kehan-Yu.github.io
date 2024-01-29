@@ -4,6 +4,7 @@ on:
   pull_request:
     branches:
       - master
+      - gh-pages
 
 jobs:
   prettier-check:
