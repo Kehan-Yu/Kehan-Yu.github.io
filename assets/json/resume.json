@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Kehan YU",
-    "label": "Student",
+    "label": "student",
     "image": "",
     "email": "ykh1056@163.com",
     "phone": "",
-    "url": "https://Kehan-Yu.github.io/",
+    "url": "https://kehan-yu.github.io/",
     "summary": "",
     "location": {
       "address": "No.163 Xianlin Avenue",
@@ -23,9 +23,19 @@
     ]
   },
   "work": [
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
   ],
-  "volunteer": [
-  ],
+  "volunteer": [],
   "education": [
     {
       "institution": "Nanjing Univerist",
@@ -34,6 +44,7 @@
       "studyType": "Master",
       "startDate": "2023-09-01",
       "endDate": "2026-06-30",
+      "score": "",
       "courses": [
         "International Communication"
       ]
@@ -41,18 +52,10 @@
   ],
   "awards": [
     {
-      "title": "The College Students' Advertising Art Competition,
-      First Prize in the Planning Category at the Provincial Level",
-      "date": "2020.",
-    }
-    {
-      "title": "Provincial Third Prize in the China National College Students' Computer Design Competition",
-      "date": "2020",
-    }
-    {
-      "title": "The College Students' Advertising Art Competition, 
-      Third Prize in the Slogan Category at the Provincial Level",
-      "date": "2021",
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": "'"
     }
   ],
   "certificates": [],
@@ -70,7 +73,7 @@
   ],
   "interests": [
     "(1)": "Birdwatching",
-    "(2)": "Classical guitar"
+    "(2)": "Classical Guitar"
   ],
   "references": [],
   "projects": []
