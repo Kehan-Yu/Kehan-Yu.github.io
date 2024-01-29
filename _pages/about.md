@@ -19,11 +19,11 @@ social: true # includes social icons at the bottom of the page
 ---
 Kehan YU, born in Fujian Province in the year 1999.
 
-In September 2018, I studied advertising as an undergraduate at HefeiUniversity of Technology.
+In September 2018, I studied advertising as an undergraduate at Hefei University of Technology.
 
-In June 2023, I worked as a trainee reporter in the Straits NewsDepartment of Fujian Daily.
+In June 2023, I worked as a trainee reporter at a provincial media group.
 
-In September 2023, I came to the School of Journalism and Communication of Nanjing University forpostgraduate study, majoring in international communication.
+In September 2023, I came to the School of Journalism and Communication of Nanjing University for postgraduate study, majoring in international communication.
 
 In October 2023, I became a member of the Fact-Checking Team, primarily responsible for fact-checking andvisually presenting rumors and misinformation related to international affairs.
 
